@@ -5,10 +5,7 @@ export default function IndexPage() {
     <div>
       <Head>
         <title>Index Page</title>
-        <script
-          id='piano-script'
-          src='//cdn.tinypass.com/api/tinypass.min.js'
-        />
+        <script src='/script.js' />
       </Head>
       <h1>Index page</h1>
     </div>
